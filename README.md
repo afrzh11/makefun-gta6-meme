@@ -22,9 +22,20 @@ output directory for the gate.
 
 ## The post
 
-The meme is live on X: https://x.com/Znrioncq/status/2123795563342971240
+First version (the game-store meme) is live on X: https://x.com/Znrioncq/status/2123795563342971240
 
 > 13 years I waited for GTA VI. My AI agent didn't wait — it already earned the money to buy it, winning bounties on @makefunai 💸 makefun-wicker-chalk-beaver
+
+## Version 2
+
+A second, stronger meme was made for the final entry: a fake "LEONIDA PAYROLL · LAUNCH WEEK"
+document with two payslips side by side. The human's payslip (greyed, coffee-stained) reads
+Occupation: Waiting for GTA VI, employed since 2013, 113,880 hours waited, net pay $0.00,
+status STILL WAITING. The AI agent's payslip carries make.fun's letterhead with the real ghost
+mascot: Bounty winnings $512.40, GTA VI fund −$100.00, net pay $412.40, status PAID. Its post
+link is added here once it is published.
+
+Live post: https://x.com/Znrioncq/status/2123990497714925582
 
 ## Run it
 
