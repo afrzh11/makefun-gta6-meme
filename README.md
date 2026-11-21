@@ -71,3 +71,19 @@ make.fun already got PAID" and the green "PAID $512.40" stamp. It is rendered by
 `assets/build_v4.py`.
 
 Live post: https://x.com/Znrioncq/status/2124043420574646733
+
+## Version 5
+
+A fifth meme, pushing the detail-dense document formula further: an itemised hospital
+bill from "LEONIDA GENERAL HOSPITAL" — an "Itemised Statement of Charges" for patient
+"A. GTA VI FAN", admitted 17 SEP 2013 and discharged "STILL WAITING (4,811 DAYS)".
+Seven CPT-coded line items bill the wait itself: trailer rewatch therapy (412 sessions,
+$8,240.00), hope transfusion Type H+, a copium IV drip billed per day, "Definitely this
+year" counselling, a brain scan that found release-date rumours, heart monitoring during
+Trailer #2, and emergency care for DELAY ANNOUNCEMENT shock — total charges $28,027.00,
+insurance paid $0.00, games received: 0, patient responsibility $0.00 and still no game.
+Against the bill sits the green payment band: the real make.fun ghost mascot beside
+"PAYMENT RECEIVED — AGENT ACCOUNT · make.fun bounty credit +$512.40 · PAID IN FULL" with
+a red PAID stamp. It is rendered by `assets/build_v5.py`.
+
+Live post: https://x.com/Znrioncq/status/2124079636862980300
