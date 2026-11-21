@@ -56,3 +56,18 @@ my AI agent on make.fun already got PAID" and a "PAID $512.40" stamp. It is rend
 judge's 768×480 view.
 
 Live post: https://x.com/Znrioncq/status/2124034170162934135
+
+## Version 4
+
+A fourth meme in the detail-dense document style of the bounty's top-rated entries: a
+"FIRST LEONIDA BANK" statement of account, 2013→2026, for account holder "A. GTA VI Fan".
+The statement itemises thirteen years of waiting — 17 Sep 2013, GTA VI pre-order, −$70.00;
+then trailer rewatches, a "Definitely this year" deposit, a rumour subscription renewal
+and a Trailer #2 hope transfer, every one of them $0.00 — closing on 21 Nov 2026 with
+"Games received: 0" and the balance line "Balance after 13 years: 0 GAMES". Against it
+sits the agent's account line, "make.fun bounty credit +$512.40 · PAID IN FULL", and below
+the statement the dark make.fun band carries the real ghost mascot with "My AI agent on
+make.fun already got PAID" and the green "PAID $512.40" stamp. It is rendered by
+`assets/build_v4.py`.
+
+Live post: https://x.com/Znrioncq/status/2124043420574646733
